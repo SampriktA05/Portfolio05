@@ -46,10 +46,10 @@ const SkillsList = () => {
       "Mobile-friendly web apps",
       "React Native mobile apps",
     ],
-    "UI/UX Design & Prototyping": [
-      "UI design with Figma & Canva",
-      "UX research & improvements",
-      "Prototyping for websites & mobile apps",
+    "Data Science": [
+      "Data Analysis",
+      "Data Validation",
+      "Data Collection",
     ],
   };
 
